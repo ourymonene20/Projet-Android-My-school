@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="connection">Connection</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="connect">Connect</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">isi@isi.sn</string>
+    <string name="formation">Formation</string>
+    <string name="university">University</string>
+    <string name="events">Events</string>
+    <string name="cancel">Cancel</string>
+    <string name="inscription">Inscription</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="degrees">Degrees</string>
+    <string name="o_level">O level</string>
+    <string name="bachelor">Bachelor</string>
+    <string name="master">Master</string>
+    <string name="save">Save</string>
+    <string name="error_field">Required field</string>
+    <string name="error_inscription">Inscription failed</string>
+    <string name="success_inscription">Inscription success</string>
+
+
+</resources>
