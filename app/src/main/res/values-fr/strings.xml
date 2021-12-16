@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MySchool</string>
+    <string name="connection">Connexion</string>
+    <string name="login">Identifient</string>
+    <string name="password">Mot de pass</string>
+    <string name="connect">Se connecter</string>
+    <string name="sign_up">S\'inscrire</string>
+    <string name="email">isi@isi.sn</string>
+    <string name="formation">Formation</string>
+    <string name="university">Universités</string>
+    <string name="help">Assistance</string>
+    <string name="events">Evenements</string>
+    <string name="cancel">Annuler</string>
+    <string name="inscription">Inscription</string>
+    <string name="first_name">Prenom</string>
+    <string name="last_name">Nom</string>
+    <string name="degrees">Diplome</string>
+    <string name="o_level">Bac</string>
+    <string name="bachelor">Licence</string>
+    <string name="master">Master</string>
+    <string name="save">Enregistrer</string>
+    <string name="error_field">champ obligatoire</string>
+    <string name="error_inscription">Inscription échoué</string>
+    <string name="success_inscription">Inscription réussie</string>
+
+
+</resources>
